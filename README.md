@@ -6,6 +6,8 @@
 - 📫 How to reach me: devel0per1991@outlook.com
 - ⚡ Fun fact: i wanna hack life
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=goooice)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GoooIce/GoooIce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
