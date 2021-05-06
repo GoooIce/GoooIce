@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning quant and nlp
+- 🌱 I’m currently learning rust (Rustacean)
 - 🤔 I’m looking for help with money
 - 📫 How to reach me: devel0per1991@outlook.com
 - ⚡ Fun fact: i wanna hack life
