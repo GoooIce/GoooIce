@@ -1,5 +1,3 @@
-[![终身学习](./终身学习.png)](http://m.igetget.com/native/sponsor)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself
